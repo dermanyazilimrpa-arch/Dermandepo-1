@@ -1,5 +1,6 @@
  Ülkemde duyduğum ihtiyaç için       
  yapılmıştır.
+ 
  Stok / Depo      
  Üretim & Planlama
  Kalite Yönetimi   
