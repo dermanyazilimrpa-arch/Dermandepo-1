@@ -17,5 +17,5 @@
  İnsan Kaynakları 
  Yazışma (EBYS)   
  Lojistik ve Filo Yönetimi
- Proje
-Hepsi bir arada çözümler içerir
+ 
+ Hepsi bir arada çözümler içerir
