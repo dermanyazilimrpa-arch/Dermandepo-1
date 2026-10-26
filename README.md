@@ -17,5 +17,5 @@
  İnsan Kaynakları 
  Yazışma (EBYS)   
  Lojistik ve Filo Yönetimi
- 
+ Ofis Entegrasyonları yapıldı 
  Hepsi bir arada çözümler içerir
